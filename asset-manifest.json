@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hammadriaz-dev/React-course.git/static/css/main.073c9b0a.css",
-    "main.js": "/hammadriaz-dev/React-course.git/static/js/main.766ca6b3.js",
+    "main.js": "/hammadriaz-dev/React-course.git/static/js/main.d42b9a9b.js",
     "static/js/787.28cb0dcd.chunk.js": "/hammadriaz-dev/React-course.git/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/hammadriaz-dev/React-course.git/index.html",
     "main.073c9b0a.css.map": "/hammadriaz-dev/React-course.git/static/css/main.073c9b0a.css.map",
-    "main.766ca6b3.js.map": "/hammadriaz-dev/React-course.git/static/js/main.766ca6b3.js.map",
+    "main.d42b9a9b.js.map": "/hammadriaz-dev/React-course.git/static/js/main.d42b9a9b.js.map",
     "787.28cb0dcd.chunk.js.map": "/hammadriaz-dev/React-course.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.766ca6b3.js"
+    "static/js/main.d42b9a9b.js"
   ]
 }
